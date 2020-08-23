@@ -1,6 +1,7 @@
 # tarea_individual
 
 Primera Asignación Individual
+
 Nombre: Pablo de Jesús Guizado Díaz
 
 ## Getting Started
