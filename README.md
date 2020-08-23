@@ -1,6 +1,7 @@
 # tarea_individual
 
-A new Flutter project.
+Primera Asignación Individual
+Nombre: Pablo de Jesús Guizado Díaz
 
 ## Getting Started
 
